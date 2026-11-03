@@ -1,0 +1,6 @@
+{
+  "name": "Saleon ERP - FC & LA",
+  "description": "Sistema integrado de gestão operacional multiempresa (Ferramentas Curitiba e Loja do Abastecimento) com fluxo completo de pedidos, logística, Bling, compras e financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
